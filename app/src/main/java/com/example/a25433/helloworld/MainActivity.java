@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         tv_hello.setTextColor(Color.RED);
         //给TextView控件设置文字大小
         tv_hello.setTextSize(30);
+        //测试提交到github
     }
 }
